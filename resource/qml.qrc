@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/logo-jeedom.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/ObjectDisplay.qml</file>
+        <file>qml/ObjectView.qml</file>
+        <file>qml/qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
